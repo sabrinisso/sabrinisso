@@ -12,9 +12,9 @@
 
 - 🤔 I’m looking for help with enhancing my knowledge of DevOps and cloud technologies to improve my application deployment process
 
-- 💬 Ask me about my experience working in the tech industry, as well as my journey to becoming a Junior Software Engineer
+- 💬 Ask me about my experience working in the tech industry
 
-- 📫 How to reach me: You can reach me via email at valdosh@gmail.com or connect with me on LinkedIn
+- 📫 How to reach me: You can connect with me on LinkedIn
 
 - 😄 Pronouns: She/Her
 
