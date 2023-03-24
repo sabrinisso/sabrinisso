@@ -37,7 +37,7 @@
 - MA Economics
 
 ## Experience
-- Senior BDR
+- Sr. Revenue Intelligence Specialist
 - Research Assistant
 - Account Manager
 
