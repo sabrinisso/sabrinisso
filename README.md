@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 👋 Welcome to my GitHub landing page!
 
-- 🔭 I’m currently working on leveraging Python and Django to develop data-driven web applications with natural language processing capabilities.
+- 🔭 I’m currently working on leveraging Python and Django to develop data-driven web applications with natural language processing capabilities
 
-- 🌱 I’m currently learning more about machine learning algorithms and techniques to further enhance my data science skills.
+- 🌱 I’m currently learning more about machine learning algorithms and techniques to further enhance my data science skills
 
-- 👯 I’m looking to collaborate on open-source projects that involve developing applications with Python and Django.
+- 👯 I’m looking to collaborate on open-source projects that involve developing applications with Python and Django
 
-- 🤔 I’m looking for help with enhancing my knowledge of DevOps and cloud technologies to improve my application deployment process.
+- 🤔 I’m looking for help with enhancing my knowledge of DevOps and cloud technologies to improve my application deployment process
 
-- 💬 Ask me about my experience working in the tech industry, as well as my journey to becoming a Junior Software Engineer.
+- 💬 Ask me about my experience working in the tech industry, as well as my journey to becoming a Junior Software Engineer
 
-- 📫 How to reach me: You can reach me via email at valdosh@gmail.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at valdosh@gmail.com or connect with me on LinkedIn
 
 - 😄 Pronouns: She/Her
 
@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 - Co-Founder – Pamiri Youth Network
 
 ## Languages
-- I speak English, Russian, Tajik.
-- Took 2 semesters of Arabic.
+- I speak English, Russian, Tajik
+- Took 2 semesters of Arabic
 
